@@ -7,7 +7,7 @@ comments: true
 author: DotPonder
 ---
 
-# 操作步骤
+操作步骤
 ## 1. 安装好虚拟机
 
 ## 2. 建立IP映射
