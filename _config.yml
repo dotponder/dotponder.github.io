@@ -62,11 +62,11 @@ footer-text: Copyright (c) 2021 DotPonder
 disqus: # fromendworld
 
 # Gitalk
-# gitalk:
-#   clientID: bd65d5c0df878155b7fa
-#   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-#   repo: lemonchann.github.io
-#   owner: lemonchann
+gitalk:
+  clientID: 6eb551953fbc3116b8ff
+  clientSecret: e0d5c604194814a2325c2092eba0728bf589d0db
+  repo: dotponder.github.io
+  owner: dotponder
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
