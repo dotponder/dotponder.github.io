@@ -4,21 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Hi，我是 lemon.
+Hello There! DotPonder here!
 
 ### 技能
 
-Linux后端分布式高性能服务开发，差一点精通 C++，Golang 成长中，Python小玩具。
+不敢说精通C，只能说学得还算好。  
+Cxx和Java入门ing...  
+会一点Python和MATLAB  
+~~重度Ubuntu使用者~~(**已回归Windows+虚拟机**)
 
 ### 经历
 
-软件工程师(Software Engineer)，电子信息工程学士学位( Electronic and Information Engineering )，从事服务器软件后台开发工作多年，现就职腾讯（Tencent）公司。
+南昌航空大学测试与光电工程学院生物医学工程系一名普普通通的工科本科生  
+本科期间获取了如下奖项:  
+- 第十二届“挑战杯”江西省大学生创业大赛银奖  
+- 第八届全国大学生光电设计竞赛全国总决赛创意组二等奖  
 
-个人技术公众号「后端技术学堂」分享、记录、成长，欢迎扫码添加。
-
-![公众号二维码](https://upload-images.jianshu.io/upload_images/7842464-15f939ec039690f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
+**想去慕尼黑工业大学读研**( *理想很美好，对吧* )  
 
 ### 版权声明
 
