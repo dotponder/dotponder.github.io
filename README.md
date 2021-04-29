@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+这是一个可 fork 的博客模板仓库，帮助你快速搭建自己的博客，可以参考我博客的[这篇文章]( https://lemonchann.github.io/create_blog_with_github_pages/ )详细指导搭建步骤。
 
-You can use the [editor on GitHub](https://github.com/dotponder/dotponder.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 文章版权
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`_posts` 文件夹内所有文章版权归我所有，转载需联系我获得授权。
 
-### Markdown
+### 致谢
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+感谢Jekyll主题[LOFFER](https://fromendworld.github.io/LOFFER/)模提供了原始主题模板，我在其上进行的二次开发。
 
-```markdown
-Syntax highlighted code block
+如果搭建过程中有什么问题，也可以在我的个人技术公众号「后端技术学堂」讨论交流，扫码添加。
 
-# Header 1
-## Header 2
-### Header 3
+![公众号二维码](https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dotponder/dotponder.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
