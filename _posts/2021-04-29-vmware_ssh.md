@@ -2,7 +2,7 @@
 layout: post
 title: "Windows用SSH连接虚拟机Linux"
 date:   2021-04-29
-tags: [geek] [ubuntu]
+tags: [geek]
 comments: true
 author: DotPonder
 ---
